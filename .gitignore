@@ -1,2 +1,4 @@
 postgresql_flask_venv
 /.idea
+src/queries/__pycache__/
+src/__pycache__/
